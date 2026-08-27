@@ -132,7 +132,6 @@ fsspec==2025.3.0
 future==1.0.0
 gast==0.7.0
 gcsfs==2025.3.0
-GDAL==3.8.4
 gdown==5.2.2
 geemap==0.38.3
 geocoder==1.38.1
@@ -583,7 +582,6 @@ tomlkit==0.14.0
 toolz==0.12.1
 torch
 torchao==0.10.0
-torchaudio @ https://download.pytorch.org/whl/cpu/torchaudio-2.11.0%2Bcpu-cp313-cp313-manylinux_2_28_x86_64.whl
 torchcodec @ https://download.pytorch.org/whl/cpu/torchcodec-0.11.0%2Bcpu-cp313-cp313-manylinux_2_28_x86_64.whl
 torchdata==0.11.0
 torchsummary==1.5.1
